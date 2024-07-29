@@ -20,8 +20,6 @@ const mamalii = {
   tools: [React, Redux, Node, Storybook, Styled-Components, Jest, Docker],
   techCommunities: {
                         technical lead: "Qwiklabs Developer Club",
-                        speaker: "Latinity",
-                        mentor: "EducaTRANSforma"
                       },
  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
