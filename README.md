@@ -31,25 +31,12 @@ const mamalii = {
 ![Visitor Count](https://profile-counter.glitch.me/Mamaliiiii/count.svg)
 
 
-<p align="center">
-    <picture>
-        <source
-            media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/AmazingMamali65/Mamaliiiii/output/github-snake-dark.svg"
-        />
-        <source
-            media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/AmazingMamali65/Mamaliiiii/output/github-snake-dark.svg"
-        />
-        <img
-            alt="github contribution grid snake animation"
-            src="https://raw.githubusercontent.com/AmazingMamali65/Mamaliiiii/output/github-snake-dark.svg"
-        />
-    </picture>
-</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" alt="Teacup Without Handle" width="120" />
+
 - 🔭 I’m currently working on ...ML ALGORITHMS
-- 🌱 I’m currently learning ...ML<DL<NLLP
+- 🌱 I’m currently learning ...ML<DL
+                                  
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
